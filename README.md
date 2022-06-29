@@ -5,8 +5,8 @@ This repo is to learn git.
 ## Index
 
 -Installation
--How to start
--Contributing
+-Formula by mathJax
+
 
 ## Installation
 
@@ -20,10 +20,10 @@ $ npm install
 $ npm start
 ```
 
-## Formula
+## Formula by mathJax
 
 $$ y=x+1 $$
 
-Or, You can emphasize formula like $ y=x+1 $
+Or, You can emphasize formula like $y=x+1$
 
 
